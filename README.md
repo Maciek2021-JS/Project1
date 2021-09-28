@@ -1,2 +1,2 @@
-# projekt1
-Square
+# project1
+Square - first project
