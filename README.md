@@ -4,5 +4,5 @@ Square - first project
 The design shows a movable element, the position of which can be changed by the user.
 ### technologies
 + JavaScript
-+ Html
-+ Css
++ HTML
++ CSS
